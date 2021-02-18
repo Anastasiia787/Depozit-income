@@ -1,24 +1,24 @@
-/из/
+/out/
 /target/
-!.mvn/обертка/maven-wrapper.jar
+!.mvn/wrapper/maven-wrapper.jar
 
-###СТС###
+### STS ###
 .apt_generated
 .classpath
 .factorypath
-.проект
-.настройки
+.project
+.settings
 .springBeans
-.sts4-кеш
+.sts4-cache
 
-###IntelliJIDEA###
+### IntelliJ IDEA ###
 .idea
 *.iws
 *.iml
 *.ipr
 
-###NetBeans###
-/nbproject/частный/
+### NetBeans ###
+/nbproject/private/
 /build/
 /nbbuild/
 /dist/
